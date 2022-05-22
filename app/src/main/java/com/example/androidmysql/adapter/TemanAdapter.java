@@ -38,7 +38,6 @@ import java.util.List;
 import java.util.Map;
 
 public class TemanAdapter extends RecyclerView.Adapter<TemanAdapter.TemanViewHolder> {
-
     private ArrayList<Teman> listData;
     private Context control;
 

@@ -3,6 +3,7 @@ package com.example.androidmysql.database;
 import java.io.Serializable;
 
 public class Teman implements Serializable {
+
     String id;
     String nama;
     String telpon;

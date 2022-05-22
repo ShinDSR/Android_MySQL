@@ -24,6 +24,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class TambahTeman extends AppCompatActivity {
+
     private EditText editNama,editTelpon;
     private Button simpanBtn;
     String nm,tlp;

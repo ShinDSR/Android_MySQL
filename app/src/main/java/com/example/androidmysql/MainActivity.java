@@ -29,6 +29,7 @@ import java.util.HashMap;
 import static android.content.ContentValues.TAG;
 
 public class MainActivity extends AppCompatActivity {
+
     private FloatingActionButton fab;
     private RecyclerView recyclerView;
     private TemanAdapter adapter;
